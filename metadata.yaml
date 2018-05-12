@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4021
     wikipedia: http://en.wikipedia.org/wiki/George_Bird_Grinnell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36923#Pawnee-Hero-Stories-and-Folk-TalesWith-notes-on-the-origin-customs-and-character-of-the-Pawne_
 gutenberg_issued: '2011-07-31'
 gutenberg_type: Text
 identifiers:
